@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    font-family: 'inter';
+}
+
+#upper-menu {
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 60px;
+}
+
+#upper-menu-title {
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}

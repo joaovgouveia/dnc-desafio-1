@@ -36,3 +36,17 @@
 .info-title {
     font-size: 30px;
 }
+
+#about-section {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#about-title {
+    font-size: 26px;
+    margin-bottom: 15px;
+}

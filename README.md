@@ -1,5 +1,5 @@
-# Desafio #01
+# Desafio 1 - Resolução
 
-## Landing Page
+## Links:
 - Página:
 - Sheet:
